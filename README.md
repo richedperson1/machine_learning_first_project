@@ -6,5 +6,17 @@ Software Requirements :
 
 1. [Git-hub](https://github.com/)
 2. [Vs-code](https://code.visualstudio.com/)
-
 3. [Heruko](https://www.heroku.com/)
+<br>
+
+Create virtual Environment using pip
+
+```
+python -m venv [name_of_virtual_environment].env
+```
+
+
+Create virtual Environment using conda
+```
+conda create -p venv python ==3.xx -y
+```
