@@ -20,3 +20,13 @@ Create virtual Environment using conda
 ```
 conda create -p venv python ==3.xx -y
 ```
+
+Activate Virtual Environments
+```
+file_location/activate.bat 
+```
+
+Install require library
+```
+pip install requirements.txt
+```
