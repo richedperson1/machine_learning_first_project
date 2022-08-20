@@ -30,3 +30,12 @@ Install require library
 ```
 pip install requirements.txt
 ```
+
+To add file into the git following command is used
+```
+git add file_name.extention_name
+```
+or Also used following
+```
+git add .
+```
