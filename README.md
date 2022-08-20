@@ -1,4 +1,4 @@
-# machine_learning_first_project
+# Machine Learning First Project
 This is first project to how to use machine learning end to end.
 
 <br>
